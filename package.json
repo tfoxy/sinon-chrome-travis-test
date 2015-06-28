@@ -1,0 +1,15 @@
+{
+  "name": "sinon-chrome-travis-test",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "chai": "*",
+    "sinon-chrome": "*"
+  },
+  "author": "Tomás Fox <tomas.c.fox@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
